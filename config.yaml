@@ -90,12 +90,12 @@ params:
     en:
       img: "/images/logo.png"
       url: "/"
-      alt: "Yihui Xie"
+      alt: "Zhongkui Zhang"
       tag: ""
 
   author:
-    en: "Yihui Xie"
-    cn: "谢益辉"
+    en: "Zhongkui Zhang"
+    cn: "张中魁"
 
   lang:
     edit:
@@ -113,3 +113,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      definitionList: true
+      footnote: true
+    tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
