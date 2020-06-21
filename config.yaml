@@ -64,8 +64,8 @@ menu:
       weight: 6
 
 params:
-  description: "Personal website of BIn Zhang; 張賓的个人网站"
-  footer: "&copy; [Bin Zhang](/) 2019 - 2020"
+  description: "Personal website of Bin Zhang; 張賓的个人网站"
+  footer: "&copy; [Bin Zhang](/) 1993 - 2020"
   disqusURL: "https://bigzhang.org"
   customJS:
     - "js/fix-toc.js"
@@ -116,7 +116,7 @@ markup:
     extensions:
       definitionList: true
       footnote: true
-    tableOfContents:
+    tableOfContents: 
     endLevel: 3
     ordered: false
     startLevel: 2

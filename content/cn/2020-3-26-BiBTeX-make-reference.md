@@ -2,7 +2,7 @@
 title: "BiBTeX制作参考文献"
 date: 2020-03-26T09:38:25Z
 draft: true
-slug: 
+slug: bibtex
 
 ---
 
