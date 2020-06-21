@@ -77,7 +77,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/magic-moon/bigzhang/edit/master/content/"
   twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
@@ -94,8 +94,8 @@ params:
       tag: ""
 
   author:
-    en: "Zhongkui Zhang"
-    cn: "张中魁"
+    en: "Bin Zhang"
+    cn: "張賓"
 
   lang:
     edit:

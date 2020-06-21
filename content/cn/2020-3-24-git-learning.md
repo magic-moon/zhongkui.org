@@ -74,6 +74,17 @@ git rm -r --cached .
 
 阿里技术[^1]有一篇文章对概念解释的比较清楚，不过看不懂，看起来都头大
 
+## 添加远程仓库
+
+git的最大优势就是他的分支仓库
+```
+git remote add github git@github.com:magic-moon/bigzhang.git
+```
+关联后，使用命令`git push -u github master`第一次推送master分支的所有内容；
+
+此后，每次本地提交后，只要有必要，就可以使用命令`git push github master`推送最新修改；
+
+
 ## 参考:
 
 [^1]: [一文讲透 Git 底层数据结构和原理](https://zhuanlan.zhihu.com/p/142289703)
