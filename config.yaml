@@ -27,6 +27,9 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 4
+    - name: "淘物"
+      url: "https://ai.m.taobao.com/index.html?pid=mm_61414827_37826014_138212384"
+      weight: 5
   en:
     - name: "Home"
       url: "/"
@@ -65,7 +68,7 @@ menu:
 
 params:
   description: "Personal website of Bin Zhang; 張賓的个人网站"
-  footer: "&copy; [Bin Zhang](/) 1993 - 2020"
+  footer: "&copy; [Bin Zhang](/) 1993 - 2020  "
   disqusURL: "https://bigzhang.org"
   customJS:
     - "js/fix-toc.js"
@@ -90,7 +93,7 @@ params:
     en:
       img: "/images/logo.png"
       url: "/"
-      alt: "Zhongkui Zhang"
+      alt: "Bin Zhang"
       tag: ""
 
   author:
