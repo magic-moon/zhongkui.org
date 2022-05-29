@@ -1,6 +1,6 @@
 baseurl: "https://bigzhang.org/"
 languageCode: "en-us"
-title: "Bin Zhang | 張賓"
+title: "Zhongkui Zhang | 张中魁"
 theme: "hugo-ivy"
 disqusShortname: "bin1024"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
@@ -69,7 +69,7 @@ menu:
 
 params:
   description: "Personal website of Zhongkui Zhang; 张中魁的个人网站"
-  footer: "&copy; [Bin Zhang](/) 2019 - 2021  "
+  footer: "&copy; [Zhongkui Zhang](/) 2019 - 2021  "
   disqusURL: "https://bigzhang.org"
   customJS:
     - "js/fix-toc.js"
