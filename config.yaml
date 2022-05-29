@@ -68,8 +68,8 @@ menu:
       weight: 7
 
 params:
-  description: "Personal website of Bin Zhang; 張賓的个人网站"
-  footer: "&copy; [Bin Zhang](/) 1993 - 2020  "
+  description: "Personal website of Zhongkui Zhang; 张中魁的个人网站"
+  footer: "&copy; [Bin Zhang](/) 2019 - 2021  "
   disqusURL: "https://bigzhang.org"
   customJS:
     - "js/fix-toc.js"
@@ -94,12 +94,12 @@ params:
     en:
       img: "/images/logo.png"
       url: "/"
-      alt: "Bin Zhang"
+      alt: “Zhongkui Zhang"
       tag: ""
 
   author:
-    en: "Bin Zhang"
-    cn: "張賓"
+    en: "Zhongkui Zhang"
+    cn: "张中魁"
 
   lang:
     edit:
