@@ -7,9 +7,8 @@ categories:
 - 建筑
 
 ---
-这个房子的设计我非常的喜欢，就是占地面积太大了，家里批不了这么大的宅基地
 
-![](/images/house/1.jpg)
+![](/images/house/1.jpg) 
 ![](/images/house/2.jpg)
 ![](/images/house/3.jpg)
 ![](/images/house/4.jpg)
@@ -18,5 +17,3 @@ categories:
 ![](/images/house/7.jpg)
 ![](/images/house/8.jpg)
 ![](/images/house/9.jpg)
-
-![](/images/shan-shui.svg)
