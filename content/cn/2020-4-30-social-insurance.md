@@ -8,4 +8,5 @@ slug: 'social-insurance'
 - 生育保险
 - 失业保险
 - 医疗保险
-- 
+- 工伤保险
+
