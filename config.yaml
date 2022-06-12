@@ -69,7 +69,7 @@ menu:
 
 params:
   description: "Personal website of Zhongkui Zhang; 张中魁的个人网站"
-  footer: "&copy; [Zhongkui Zhang](/) 2019 - 2021  "
+  footer: "&copy; [Zhongkui Zhang](/) 2019 - 2022  "
   disqusURL: "https://bigzhang.org"
   customJS:
     - "js/fix-toc.js"
