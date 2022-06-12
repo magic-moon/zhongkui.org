@@ -84,6 +84,7 @@ git remote add github git@github.com:magic-moon/bigzhang.git
 
 此后，每次本地提交后，只要有必要，就可以使用命令`git push github master`推送最新修改；
 
+[阿里云服务器](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=1nkpq78k)
 
 ## 参考:
 
