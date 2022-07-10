@@ -1,5 +1,5 @@
 ---
-title: "怎么成为一个老板"
+title: "创业的路上"
 date: 2020-07-12T06:03:53Z
 draft: true
 slug: "how-to-become-a-boss"
