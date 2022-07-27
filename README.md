@@ -1,2 +1,2 @@
 # bigzhang
-Personal website of Bin Zhang - https://bigzhang.org
+Personal website of Zhongkui Zhang - https://zhongkui.org
