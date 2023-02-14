@@ -60,12 +60,9 @@ menu:
     - name: "菜谱"
       url: "/cn/recipe/"
       weight: 5
-    - name: "淘物"
-      url: "https://ai.m.taobao.com/index.html?pid=mm_61414827_37826014_138212384"
-      weight: 6
     - name: "English"
       url: "/en/"
-      weight: 7
+      weight: 6
 
 params:
   description: "Personal website of Zhongkui Zhang; 张中魁的个人网站"
